@@ -1,0 +1,22 @@
+# JS stuff
+node_modules
+
+
+
+# Dev stuff
+.github
+.git
+.gitignore
+venv
+.venv
+README.md
+.vscode
+.idea
+build
+dist
+*.egg-info
+*.egg/
+*.pyc
+*.swp
+
+db.sqlite3
